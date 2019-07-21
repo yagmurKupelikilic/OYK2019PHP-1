@@ -27,7 +27,7 @@ Komut|Açıklama
 Linux işletim sisteminin çekirdeğinin diğer işletim sistemlerinin pek çoğundan farkı, çekirdek kaynak kodunun GPL (GENERAL PUBLIC LICENSE) lisansı altında açık kaynak kodlu, diğer bir deyişle isteyen herkes tarafından yapılandırılabilir, hatta daha üst düzey kullanıcılar için değiştirilebilir olmasıdır. 
 
 #### Debian Nedir?
-**Debian**, günümüze kadar ulaşmış ve hala sayısız kullanıcı tarafından kullanılan GNU/Hurd, GNU/Linuxgibi farklı çekirdek seçeneklerine bağlı özgür bir *Linux dağıtımı*dır. 
+**Debian**, günümüze kadar ulaşmış ve hala sayısız kullanıcı tarafından kullanılan GNU/Hurd, GNU/Linux gibi farklı çekirdek seçeneklerine bağlı özgür bir *Linux dağıtımı*dır. 
 
 #### Red Hat
 ***Red Hat***, Türkçesiyle Kırmızı Şapka, başta açık kaynak kodlu yazılımlar olmak üzere Linux tabanlı çalışan en gelişmiş ve profesyonelleşmiş yazılım şirketlerinden biridir. 
