@@ -1,5 +1,7 @@
 # Özgür Yazılım Yaz Kampı PHP Sınıfı Ders Notları
 ## 20.07.2019 Birinci Gün Notları
+![kamp](https://kamp.linux.org.tr/2019/yaz/wp-content/themes/oyk-wp-theme/assets/images/oyk2019logo.png)
+
 ### Ubuntu’da Bazı Apt Komutları
 
 Komut|Açıklama
