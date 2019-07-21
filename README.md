@@ -2,6 +2,7 @@
 ## 20.07.2019 Birinci Gün Notları
 ![kamp](https://kamp.linux.org.tr/2019/yaz/wp-content/themes/oyk-wp-theme/assets/images/oyk2019logo.png)
 
+
 ### Ubuntu’da Bazı Apt Komutları
 
 Komut|Açıklama
@@ -10,6 +11,8 @@ Komut|Açıklama
 ```sudo apt remove paket-ismi:```|Bu komut ile istediğimiz paketi silebiliriz. 
 ```sudo apt update:```|Paket listesini günceller. 
 ```sudo apt upgrade:```|Sistemde kurulu paketleri günceller. 
+
+![izzet baysal logo](./izzet-baysal.png)
 
 ### Paket yöneticileri(apt, yum, packman, pkg)
 - Paket yükleme işlemleri kolaylaşır.
