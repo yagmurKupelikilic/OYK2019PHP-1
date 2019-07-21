@@ -10,11 +10,11 @@
 ```sudo apt upgrade:```Sistemde kurulu paketleri günceller.
 
 Paket yöneticileri neler yapar?(apt, yum, dnf, pkg)
-– Paket yükleme işlemleri kolaylaşır.
-– Paket kaldırma işlemleri kolaylaşır.
-– Var olan paketlerin güncelleme işlemleri kolaylaşır.
-– Sistemde yüklü olan/olmayan paketleri listeleme işi kolaylaşır.
-– Programların çalışması için gerekli olan diğer programların yönetimi kolaylaşır.
+- Paket yükleme işlemleri kolaylaşır.
+- Paket kaldırma işlemleri kolaylaşır.
+- Var olan paketlerin güncelleme işlemleri kolaylaşır.
+- Sistemde yüklü olan/olmayan paketleri listeleme işi kolaylaşır.
+- Programların çalışması için gerekli olan diğer programların yönetimi kolaylaşır.
 
 Çekirdek
 Çekirdek, bilgisayarda donanım (hardware) ve yazılım (software) arasındaki bağlantıyı sağlayan arabirime verilen isimdir. 
