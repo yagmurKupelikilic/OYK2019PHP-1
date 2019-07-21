@@ -4,10 +4,10 @@
 
 ```sudo apt install paket-ismi:```Bu komut ile sistemimize ubuntu depolarında bulunan her paketi kurabiliriz. 
 
-sudo apt remove paket-ismi: Bu komut ile istediğimiz paketi silebiliriz. 
+```sudo apt remove paket-ismi:``` Bu komut ile istediğimiz paketi silebiliriz. 
 
-sudo apt update: Paket listesini günceller.
-sudo apt upgrade: Sistemde kurulu paketleri günceller.
+```sudo apt update:``` Paket listesini günceller.
+```sudo apt upgrade:```Sistemde kurulu paketleri günceller.
 
 Paket yöneticileri neler yapar?(apt, yum, dnf, pkg)
 – Paket yükleme işlemleri kolaylaşır.
