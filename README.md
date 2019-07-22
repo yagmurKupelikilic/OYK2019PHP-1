@@ -7,7 +7,7 @@
 ### Ubuntu’da Bazı Apt Komutları
 
 Komut|Açıklama
-:---|:---:|
+:---|:---|
 ```sudo apt install paket-ismi:``` | Bu komut ile sistemimize ubuntu depolarında bulunan her paketi kurabiliriz.  
 ```sudo apt remove paket-ismi:```|Bu komut ile istediğimiz paketi silebiliriz. 
 ```sudo apt update:```|Paket listesini günceller. 
